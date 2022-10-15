@@ -18,6 +18,6 @@
 ************************************************************************************************
 #### One hot encoding will be used to convert the categorical variables into a usable numeric form. Then, I will use a linear regression model to predict the price. I can look at the model by producing a histogram or line graph of predicted vs. actual values. 
 ************************************************************************************************
-### What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
-#### The goal is to discover trends and use reviews to predict price. 
+#### The goal is to use reviews to predict price.
+#### Another goal is to discover and visualize trends. 
 #### I would like people to have a good idea about how good of a quality wine they are getting in relation to what they spend, and therefore help them gauge what is worth purchasing. Also, I would like people to know any patterns that exist in WineEnthusiast reviews, because this is a widely referenced and trusted site. 
