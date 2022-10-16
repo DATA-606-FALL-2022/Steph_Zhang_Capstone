@@ -16,7 +16,7 @@
 #### Relevant units of analysis include country, province, regions, wineries etc.
 #### The two numeric columns are price and points. The price is the purchase price and points refers to the score or rating of the wine, out of 100. 
 ************************************************************************************************
-#### I will use linear regression models to predict the price. I can evaluate the models using the correlation coefficient by producing a line of best fit.
+#### I will use linear regression models to predict the price. I can evaluate the models using the correlation coefficient, and by producing a line of best fit.
 #### First, I will perform simple regression with the independent variable of review points. 
 #### Then, I will perform multivariate regression via encoding the categorical variables. One hot encoding will be used to convert the categorical variables into a usable numeric form. 
 ************************************************************************************************
