@@ -16,7 +16,9 @@
 #### Relevant units of analysis include country, province, regions, wineries etc.
 #### The two numeric columns are price and points. The price is the purchase price and points refers to the score or rating of the wine, out of 100. 
 ************************************************************************************************
-#### One hot encoding will be used to convert the categorical variables into a usable numeric form. Then, I will use a linear regression model to predict the price. I can look at the model by producing a histogram or line graph of predicted vs. actual values. 
+#### I will use linear regression models to predict the price. I can evaluate the models using the correlation coefficient by producing a line of best fit.
+#### First, I will perform simple regression with the independent variable of review points. 
+#### Then, I will perform multivariate regression via encoding the categorical variables. One hot encoding will be used to convert the categorical variables into a usable numeric form. 
 ************************************************************************************************
 #### The goal is to use reviews to predict price.
 #### Another goal is to discover and visualize trends. 
