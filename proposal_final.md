@@ -12,13 +12,9 @@
 #### https://www.kaggle.com/datasets/zynicide/wine-reviews?select=winemag-data_first150k.csv
 ************************************************************************************************
 #### After cleaning, the data shape is 129,971 rows, and 12 columns. 
-#### The data is mostly categorical, but this will be handled later using one hot encoding. 
-#### Relevant units of analysis include country, province, regions, wineries etc.
-#### The two numeric columns are price and points. The price is the purchase price and points refers to the score or rating of the wine, out of 100. 
-************************************************************************************************
 #### I will use linear regression models to predict the price. I can evaluate the models using the correlation coefficient, and by producing a line of best fit.
-#### First, I will perform simple regression with the independent variable of review points. 
-#### Then, I will perform multivariate regression via encoding the categorical variables. One hot encoding will be used to convert the categorical variables into a usable numeric form. 
+#### First, I will perform simple regression with the independent variable of review points (out of 100). 
+#### Then, I will perform multivariate regression via encoding the categorical variables. One hot encoding will be used to convert the categorical variables into a usable numeric form. Relevant units of analysis include country, province, regions, wineries etc.
 ************************************************************************************************
 #### The goal is to use reviews to predict price.
 #### Another goal is to discover and visualize trends. 
