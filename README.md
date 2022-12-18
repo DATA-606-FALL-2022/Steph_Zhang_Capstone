@@ -3,7 +3,7 @@
 ## Final Report
 ## Artifacts
 ### dataset 
-### Jupyter notebooks
+### [Jupyter Notebooks](https://github.com/DATA-606-FALL-2022/Steph_Zhang_Capstone/tree/main/Notebooks)
 ### [PowerPoint Presentation Slides](https://github.com/DATA-606-FALL-2022/Steph_Zhang_Capstone/blob/main/Capstone_Presentation.pptx)
 ### youtube link
 ## Introduction and Use Case
