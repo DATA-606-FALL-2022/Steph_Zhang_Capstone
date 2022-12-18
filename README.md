@@ -2,7 +2,7 @@
 # Using Regression to Predict Wine Price
 ## Final Report
 ## Artifacts
-### dataset 
+### [Data Set](https://github.com/DATA-606-FALL-2022/Steph_Zhang_Capstone/tree/main/Data) 
 ### [Jupyter Notebooks](https://github.com/DATA-606-FALL-2022/Steph_Zhang_Capstone/tree/main/Notebooks)
 ### [PowerPoint Presentation Slides](https://github.com/DATA-606-FALL-2022/Steph_Zhang_Capstone/blob/main/Capstone_Presentation.pptx)
 ### youtube link
