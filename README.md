@@ -6,5 +6,8 @@
 ### notebooks
 ### youtube link
 ----------------------------------------------------
-### test
-#### test2
+## Introduction and Use Case
+### Intro: Wine Enthusiast
+### Case: Why it's important
+-------------------------------
+## Data
