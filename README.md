@@ -8,4 +8,6 @@
 ## Introduction and Use Case
 ### Intro: Wine Enthusiast
 ### Case: Why it's important
-## Data
+## Machine Learning Models
+## Discoveries
+## Conclusion and Suggestions
