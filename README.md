@@ -5,9 +5,7 @@
 ### presentation slides
 ### notebooks
 ### youtube link
-----------------------------------------------------
 ## Introduction and Use Case
 ### Intro: Wine Enthusiast
 ### Case: Why it's important
--------------------------------
 ## Data
