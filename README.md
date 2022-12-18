@@ -15,7 +15,7 @@
 ### The correlation coefficient was .4, which is average. There is a slight positive relationship between review points and price, however this plateaus after price reaches $500. 
 ### Multivariate Regression
 ### This time, I used all the relevant independent variables, such as country, province, variety, etc. 
-### Using Sklearn, I used Train/Test Split: 80% Train|20% Test. Also, I coded a feature engineering pipeline to one hot encode the categorical variables, replace missing values, which fed into a linear model. I calculated the training and testing MSE, with an huge testing MSE of 560. Such a high MSE means this model is not a good fit for the data. 
+### Using Sklearn, I used Train/Test Split: 80% Train|20% Test. Also, I coded a feature engineering pipeline to one hot encode the categorical variables and replace missing values, which fed into a linear model. I calculated the training and testing MSE, with an huge testing MSE of 560. Such a high MSE means this model is not a good fit for the data. 
 ## Discoveries
 ### Of the two models, simple is better. The simple linear regression model is more easier and straightforward to implement and interpret. There is much more work needed for the multivariate model, which is not a good model as indicated by a large MSE. 
 ### The U.S. is the most talked about country of origin across cheap and expensive wines. 
